@@ -1,8 +1,4 @@
 
-//NAME           ID
-//Munira shifa    2347/14
-//Yididiya Bishaw 1515/15
-//Etsub Teferi     1609/15
 package application;
 
 import javafx.application.Application;
